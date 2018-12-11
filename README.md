@@ -1,2 +1,3 @@
 # JEE
-Login and Password will be stored in a separate file named login.password
+Login and Password will be stored in a separate file named connection.properties
+
